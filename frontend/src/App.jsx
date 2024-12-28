@@ -6,7 +6,7 @@ const App = () => {
   return (
 
    <>
-        <h1 className="text-3xl font-bold underline">This is tailwind css</h1>
+      <h2 className="text-4xl font-bold 500">Hello World </h2>
         <Sidebar />
         <Dashboard />
    </>
