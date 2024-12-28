@@ -6,7 +6,7 @@ import Sidebar from "./Components/Sidebar/Sidebar"
 const App = () => {
   return (
    <>
-      <h2 className="text-4xl font-bold 500">Hello World </h2>
+      <h2 className="text-4xl font-bold underline">Hello World </h2>
         <Sidebar />
         <Dashboard />
    </>
