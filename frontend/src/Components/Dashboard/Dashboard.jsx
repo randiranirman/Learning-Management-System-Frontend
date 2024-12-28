@@ -2,8 +2,10 @@ import "./Dashboard.css";
 
 const Dashboard = () => {
   return (
+
+
     <div className="dashboard">
-      <h2>Dashboard</h2>
+      <h2 className=""> Dashboard</h2>
       <div className="cards">
         <div className="card">
           <h3>Total Users</h3>

@@ -12,7 +12,6 @@ const Sidebar = () => {
     <>
             <div className="sidebar">
                 <h2>Admin Panel</h2>
-                <h2>This is the second commit</h2>
                 <ul>
                     <li className="dashboard" onClick={ ()  => setActive("dashboard")}>DashBoard</li>
                     <li className="manage users" onClick={() => setActive("manage users")} >Manage Users</li>
