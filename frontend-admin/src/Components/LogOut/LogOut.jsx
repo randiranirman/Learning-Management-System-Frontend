@@ -6,7 +6,7 @@ const LogOut = () => {
     
 
         <>
-                <h1 className="text-3xl text-red-600">This is the Login page</h1>
+                <h1 className="text-3xl text-red-600">This is the Out  page</h1>
                 <Choise />
 
         </>
